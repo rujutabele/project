@@ -1,0 +1,16 @@
+<html>
+<table>
+<tr><td>EC2</td>
+<td>Lightsail</td>
+<td>ECR</td>
+<td>ECS</td>
+<td>EKS</td>
+<td>LAMBDA</td>
+<td>BATCH</td>
+<td>Elastic BeanStalk</td>
+<td>Serverless application repository</td>
+
+</tr>
+</table>
+
+</html>
